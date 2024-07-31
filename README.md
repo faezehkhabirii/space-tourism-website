@@ -1,4 +1,4 @@
-# Space Tourism
+# Space Tourism website
 
 This is a frontend mentor challenge project that focuses on creating a responsive website for a space tourism company. The project is built using HTML, CSS, and JavaScript.
 
@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![desktop-home](https://github.com/user-attachments/assets/f5e5a388-8908-4eee-9e1e-2f7a58ef245c)
+
 
 ### Links
 
